@@ -34,13 +34,13 @@ cd Realtime-Chat-application
 - **Backend:**  
   Create a `.env` file in the `Backend/` directory:
   ```
-PORT=5001
-MONGODB_URI=
-JWT_SECRET=
-NODE_ENV=
-CLOUDINARY_CLOUD_NAME=
-CLOUDINARY_API_KEY=
-CLOUDINARY_API_SECRET=
+    PORT=5001
+    MONGODB_URI=
+    JWT_SECRET=
+    NODE_ENV=
+    CLOUDINARY_CLOUD_NAME=
+    CLOUDINARY_API_KEY=
+    CLOUDINARY_API_SECRET=
   ```
 
 ### 3. Using Docker Compose
